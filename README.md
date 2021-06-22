@@ -1,9 +1,12 @@
 # Stock-Price-Prediction
-The main goal of this project is to investigate whether modern Deep Learning techniques can be utilized to more efficiently predict the movements of the stock market. 
+Predicting stock price using historical data of a company, using Neural networks (LSTM).
+
+This project includes python programs to show Keras LSTM can be used to predict future stock prices for a company using it's historical stock price data.
 
 Method : Long short-term memory (LSTM) recurrent neural network
 
 Programming Language : Python
+
 
 ![image](https://user-images.githubusercontent.com/68517588/122871208-50b5d080-d34c-11eb-88a5-cde827a84930.png)
 
